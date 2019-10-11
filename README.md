@@ -85,6 +85,11 @@ http://localhost:3000/todo
 http://localhost:3000/todo/:id
 ```
 
+## SWAGGER
+```
+http://localhost:3000/api
+```
+
 ## YOUTUBE
 
 [Nestjs - Interaction avec une base de données mysql (fr)](https://www.youtube.com/watch?v=dJXc3k4yZJI)
